@@ -1,0 +1,17 @@
+# ninja log v5
+1	244	6645304914047334	CMakeFiles/JustifyParagraph.dir/main.c.obj	aeb4496c1a5e787
+245	518	6645304916741202	JustifyParagraph.exe	b8f5c40aaf3e998f
+2	242	6645306158909371	CMakeFiles/JustifyParagraph.dir/main.c.obj	aeb4496c1a5e787
+243	558	6645306162033809	JustifyParagraph.exe	b8f5c40aaf3e998f
+2	235	6645306271209354	CMakeFiles/JustifyParagraph.dir/main.c.obj	aeb4496c1a5e787
+235	514	6645306273963614	JustifyParagraph.exe	b8f5c40aaf3e998f
+2	283	6645306841820300	CMakeFiles/JustifyParagraph.dir/main.c.obj	aeb4496c1a5e787
+284	573	6645306844660285	JustifyParagraph.exe	b8f5c40aaf3e998f
+2	231	6645307695988748	CMakeFiles/JustifyParagraph.dir/main.c.obj	aeb4496c1a5e787
+232	508	6645307698696460	JustifyParagraph.exe	b8f5c40aaf3e998f
+2	242	6645312700523177	CMakeFiles/JustifyParagraph.dir/main.c.obj	aeb4496c1a5e787
+242	525	6645312703290047	JustifyParagraph.exe	b8f5c40aaf3e998f
+2	247	6645313497626251	CMakeFiles/JustifyParagraph.dir/main.c.obj	aeb4496c1a5e787
+2	242	6645313803971639	CMakeFiles/JustifyParagraph.dir/main.c.obj	aeb4496c1a5e787
+2	237	6645314182848786	CMakeFiles/JustifyParagraph.dir/main.c.obj	aeb4496c1a5e787
+238	514	6645314185582592	JustifyParagraph.exe	b8f5c40aaf3e998f

@@ -1,0 +1,3 @@
+C:/Users/kohdc/CLionProjects/JustifyParagraph/cmake-build-debug/CMakeFiles/JustifyParagraph.dir
+C:/Users/kohdc/CLionProjects/JustifyParagraph/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kohdc/CLionProjects/JustifyParagraph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
